@@ -10,6 +10,10 @@ Making all of these points on the page gives us a cleaner, better, and more acce
 
 No installations need to be made for this page.
 
+## Usage
+
+Normal webpage layout, links across the top take you to different areas on the page. It is not set up for mobile and therefore is best used on a full screen browser.
+
 ## Credits
 
 Two websites where used to help with the coding.
